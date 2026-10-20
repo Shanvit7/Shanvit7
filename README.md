@@ -23,7 +23,7 @@ Founding Engineer at **Zosma AI**.
 ### Selected work
 
 - **[pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki)** — An interlinked, self-maintaining knowledge base for Pi.
-- **[zosma-cowork](https://github.com/zosmaai/zosma-cowork)** — A web-based AI workspace with a local execution daemon.
+- **[qagent](https://github.com/Shanvit7/qagent)** — Change-aware regression testing for Next.js; generates and runs Playwright tests against staged changes in a real browser.
 - **[askbit](https://github.com/zosmaai/askbit)** — A knowledge assistant with semantic search and RAG.
 
 ### Stack
